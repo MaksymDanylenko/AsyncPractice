@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ClassicWindowsForms")]
+[assembly: AssemblyTitle("ConcurrentQueue")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ClassicWindowsForms")]
+[assembly: AssemblyProduct("ConcurrentQueue")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("084eb0fc-49e7-46b9-ba04-6f2d1e5fa869")]
+[assembly: Guid("3013b13c-a131-4d50-9174-98e4c7127e77")]
 
 // Version information for an assembly consists of the following four values:
 //
